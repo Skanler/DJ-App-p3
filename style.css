@@ -1,0 +1,34 @@
+.heading{
+    width:100%;
+    margin:0px;
+    font-size:25px;
+}
+
+#directions{
+    font-size:15px;
+    color:black;
+}
+
+#disc1{
+    float:left;
+}
+
+#disc2{
+    float:right;
+}
+
+.discgif{
+    width:200px;
+    border-radius: 80px;
+}
+
+.playmusic{
+    font-size:25px;
+    width:120px
+}
+
+canvas{
+    background-color: darkgrey;
+    border:5px solid grey;
+    border-radius: 10px;
+}
